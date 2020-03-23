@@ -1,0 +1,14 @@
+.login-btn {
+  background-color: #F91944;
+  color: #fff;
+  padding: 10px 0;
+}
+.login-btn:hover {
+ 
+  color: #fff;
+  
+}
+
+.no-account a {
+  color: #F91944;
+}

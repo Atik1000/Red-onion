@@ -1,0 +1,11 @@
+.sign-up-btn {
+	background-color: #F91944;
+	color: #fff;
+	padding: 10px 0;
+}
+.sign-up-btn:hover{
+	color: #fff;
+}
+.has-account a {
+	color: #F91944;
+}
